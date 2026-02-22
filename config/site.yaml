@@ -128,7 +128,7 @@ featuredSeries:
     enabled: true # 启用此系列
     icon: ri:newspaper-line # 导航图标
     links: # 相关链接（可选）
-      github: https://github.com/your-username/your-repo # (可选) GitHub 仓库
+      github: https://github.com/lingeinzbern-art/lingeinzbern.github.io.git # (可选) GitHub 仓库
       rss: /rss.xml # (可选) RSS 订阅链接
       # chrome: https://chromewebstore.google.com/detail/your-extension-id # (可选) 浏览器插件
       # docs: https://your-docs-url # (可选) 文档链接
@@ -156,11 +156,11 @@ featuredSeries:
 # -----------------------------------------------------------------------------
 social:
   github:
-    url: https://github.com/your-username # 替换为你的 GitHub 链接
+    url: https://github.com/lingeinzbern-art # 替换为你的 GitHub 链接
     icon: ri:github-fill # Remix Icon 的 GitHub 图标
     color: '#191717' # (可选) 图标颜色
   email:
-    url: mailto:your@email.com # 替换为你的邮箱，需加 mailto: 前缀
+    url: mailto:lingeinzbern@gmail.com # 替换为你的邮箱，需加 mailto: 前缀
     icon: ri:mail-line
     color: '#55acd5'
   rss:
@@ -170,15 +170,15 @@ social:
   # -------------------------------------------------------------------------
   # 以下是更多可选的社交平台配置示例，取消注释并修改即可启用：
   # -------------------------------------------------------------------------
-  # twitter:
-  #   url: https://x.com/your-handle
-  #   icon: ri:twitter-fill
-  #   color: '#4b9ae4'
-  # bilibili:
-  #   url: https://space.bilibili.com/your-id
-  #   icon: ri:bilibili-fill
-  #   color: '#da708a'
-  # zhihu:
+  twitter:
+     url: https://x.com/EinzbernLi20404
+     icon: ri:twitter-fill
+     color: '#4b9ae4'
+  bilibili:
+     url: https://space.bilibili.com/1296978809
+     icon: ri:bilibili-fill
+     color: '#da708a'
+  # zhihu: 
   #   url: https://www.zhihu.com/people/your-id
   #   icon: ri:zhihu-fill
   #   color: '#1e88e5'

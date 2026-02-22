@@ -90,7 +90,7 @@ featuredCategories:
     image: /img/cover/4.webp
     description: 技术笔记、学习笔记
   - link: reading # 对应 categoryMap 中 阅读: reading
-    label: 阅读
+    label: 阅读 
     image: /img/cover/1.webp
     description: 读书笔记、阅读记录
   - link: tools # 对应 categoryMap 中 工具: tools

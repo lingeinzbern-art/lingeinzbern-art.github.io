@@ -543,7 +543,7 @@ analytics:
   umami:
     enabled: true
     id: your-umami-id
-    endpoint: https://stats.example.com
+    endpoint: https://stats.example.com 
 
 # =============================================================================
 # SEO Configuration
